@@ -1,0 +1,157 @@
+- 👋 Hi, I’m @H597522
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+   
+
+Sabse neche jaao TAb MELE GHA RAJ
+
+
+
+
+
+<!---
+H597522/H597522 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+---> You are love me i am happy for ever 
+$ pkg install python
+Testing the available mirrors:
+[*] https://dl.bintray.com/termux/termux-packages-24: bad
+[*] https://grimler.se/termux-packages-24: ok
+[*] https://main.termux-mirror.ml: bad
+[*] https://termux.mentality.rip/termux-packages-24: ok
+Picking mirror: https://grimler.se/termux-packages-24
+Get:1 https://grimler.se/termux-packages-24 stable InRelease [16.8 kB]
+Ign:2 https://dl.bintray.com/grimler/game-packages-24 games InRelease
+Err:1 https://grimler.se/termux-packages-24 stable InRelease
+  The following signatures couldn't be verified because the public key is not available: NO_PUBKEY B0076E490B71616B
+Ign:3 https://dl.bintray.com/grimler/science-packages-24 science InRelease
+Get:4 https://packages.termux.dev/apt/termux-x11 x11 InRelease [14.0 kB]
+Err:5 https://dl.bintray.com/grimler/game-packages-24 games Release
+  502  Bad Gateway
+Get:6 https://packages.termux.dev/apt/termux-x11 x11/main aarch64 Packages [106 kB]
+Err:7 https://dl.bintray.com/grimler/science-packages-24 science Release
+  502  Bad Gateway
+Reading package lists... Done
+W: GPG error: https://grimler.se/termux-packages-24 stable InRelease: The following signatures couldn't be verified because the public key is not available: NO_PUBKEY B0076E490B71616B
+E: The repository 'https://grimler.se/termux-packages-24 stable InRelease' is not signed.
+N: Metadata integrity can't be verified, repository is disabled now.
+N: Possible cause: repository is under maintenance or down (wrong sources.list URL?).
+E: The repository 'https://dl.bintray.com/grimler/game-packages-24 games Release' does not have a Release file.
+N: Metadata integrity can't be verified, repository is disabled now.
+N: Possible cause: repository is under maintenance or down (wrong sources.list URL?).
+E: The repository 'https://dl.bintray.com/grimler/science-packages-24 science Release' does not have a Release file.
+N: Metadata integrity can't be verified, repository is disabled now.
+N: Possible cause: repository is under maintenance or down (wrong sources.list URL?).
+$ python2
+The program python2 is not installed. Install it by executing:
+ pkg install python2
+$ pkg install python2
+Checking availability of current mirror: ok
+Reading package lists... Done
+Building dependency tree
+Reading state information... Done
+Package python2 is not available, but is referred to by another package.
+This may mean that the package is missing, has been obsoleted, or
+is only available from another source
+
+E: Package 'python2' has no installation candidate
+$ generate various for android
+No command generate found, did you mean:
+ Command decorate in package datamash
+$ apt update
+Hit:2 https://packages.termux.dev/apt/termux-x11 x11 InRelease
+Get:1 https://grimler.se/termux-packages-24 stable InRelease [16.8 kB]
+Ign:3 https://dl.bintray.com/grimler/game-packages-24 games InRelease
+Ign:4 https://dl.bintray.com/grimler/science-packages-24 science InRelease
+Err:1 https://grimler.se/termux-packages-24 stable InRelease
+  The following signatures couldn't be verified because the public key is not available: NO_PUBKEY B0076E490B71616B
+Err:5 https://dl.bintray.com/grimler/game-packages-24 games Release
+  502  Bad Gateway
+Err:6 https://dl.bintray.com/grimler/science-packages-24 science Release
+  502  Bad Gateway
+Reading package lists... Done
+W: GPG error: https://grimler.se/termux-packages-24 stable InRelease: The following signatures couldn't be verified because the public key is not available: NO_PUBKEY B0076E490B71616B
+E: The repository 'https://grimler.se/termux-packages-24 stable InRelease' is not signed.
+N: Metadata integrity can't be verified, repository is disabled now.
+N: Possible cause: repository is under maintenance or down (wrong sources.list URL?).
+E: The repository 'https://dl.bintray.com/grimler/game-packages-24 games Release' does not have a Release file.
+N: Metadata integrity can't be verified, repository is disabled now.
+N: Possible cause: repository is under maintenance or down (wrong sources.list URL?).
+E: The repository 'https://dl.bintray.com/grimler/science-packages-24 science Release' does not have a Release file.
+N: Metadata integrity can't be verified, repository is disabled now.
+N: Possible cause: repository is under maintenance or down (wrong sources.list URL?).
+$ apt upgrade
+Reading package lists... Done
+Building dependency tree
+Reading state information... Done
+Calculating upgrade... Done
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+$ pkg install git
+Checking availability of current mirror: ok
+Reading package lists... Done
+Building dependency tree
+Reading state information... Done
+Package git is not available, but is referred to by another package.
+This may mean that the package is missing, has been obsoleted, or
+is only available from another source
+
+E: Package 'git' has no installation candidate
+$ pkg install python y
+Checking availability of current mirror: ok
+Reading package lists... Done
+Building dependency tree
+Reading state information... Done
+Package python is not available, but is referred to by another package.
+This may mean that the package is missing, has been obsoleted, or
+is only available from another source
+
+E: Package 'python' has no installation candidate
+E: Unable to locate package y
+$ pkg install python2 -y
+Checking availability of current mirror: ok
+Reading package lists... Done
+Building dependency tree
+Reading state information... Done
+Package python2 is not available, but is referred to by another package.
+This may mean that the package is missing, has been obsoleted, or
+is only available from another source
+
+E: Package 'python2' has no installation candidate
+$ pip install lolcat
+No command pip found, did you mean:
+ Command php in package php
+ Command pil in package picolisp
+ Command pup in package pup
+ Command ip in package termux-tools
+ Command zip in package zip
+$ git clone https://github.comhackers/infect
+The program git is not installed. Install it by executing:
+ pkg install git
+$ is
+No command is found, did you mean:
+ Command as in package binutils
+ Command id in package coreutils
+ Command gs in package ghostscript
+ Command i3 in package i3
+ Command iw in package iw from the root-repo repository
+ Command ts in package moreutils
+ Command ps in package procps
+ Command ils in package sleuthkit
+ Command ts in package task-spooler
+ Command ip in package termux-tools
+ Command vis in package vis
+$ cd infect
+bash: cd: infect: No such file or directory
+$ bash infect.sh
+bash: infect.sh: No such file or directory
+$
+ 
+
+OPEN LINK TO CHAT ME 
+
+        https://ilqaa.com/MnA3WjE0Mkc3bDV3MVM=
+
+
+Ok BY YOUR LOVE 
